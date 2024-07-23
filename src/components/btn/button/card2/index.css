@@ -1,0 +1,17 @@
+.blockcardtwo{
+    width: 450px;
+    height: 350px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px 5px black;
+    border-radius: 5px;
+}
+.blockcardtwo button{
+    margin-left: 15px;
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+}
+.blockcardtwo h1{
+    font-size: 55px;
+    margin-left: 150px;
+}

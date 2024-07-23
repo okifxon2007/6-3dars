@@ -1,0 +1,19 @@
+.brodf{
+    width: 450px;
+    height: 350px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px 5px black;
+    border-radius: 5px;
+    display: flex;
+}
+.brodf button{
+    width: 105px;
+    height: 35px;
+    margin-top: 180px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.brodf h1{
+    font-size: 45px;
+    margin-top: 170px;
+}

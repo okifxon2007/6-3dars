@@ -1,0 +1,25 @@
+.btnpagecard{
+    width: 450px;
+    height: 350px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px 5px black;
+    border-radius: 5px;
+}
+.buttonpage button{
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 40px;
+}
+.btnpagecard h1{
+    font-size: 68px;
+    margin-left: 180px;
+}
+.buttonpage{
+    display: flex;
+}
+.btnpg{
+    display: flex;
+    margin-left: 50px;
+}

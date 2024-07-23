@@ -1,0 +1,22 @@
+.tasodifiy{
+    width: 550px;
+    height: 450px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px 5px black;
+}
+.tasodifiy ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: none;
+}
+.tasodifiy button{
+    margin-left: 190px;
+    margin-top: 250px;
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+}
